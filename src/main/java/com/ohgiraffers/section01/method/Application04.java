@@ -12,8 +12,6 @@ public class Application04 {
         Application04 app4 = new Application04();
         app4.testMethod("조평훈", 20, '남');
 
-
-
     }
 
     public void testMethod(String name, int age, final char gender){
@@ -29,4 +27,8 @@ public class Application04 {
 
     }
 
-}
+
+
+    }
+
+
