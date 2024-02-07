@@ -20,6 +20,7 @@ public class Application09 {
         * */
 
         Calculator calc = new Calculator();
+
         int min = calc.minNumberOf(first, second);      //이런식으로 아예 int min 변수에 담아줄 수 있음.
 
         System.out.println("두 수 중 최솟값은? : " + min);

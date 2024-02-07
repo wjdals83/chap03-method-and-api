@@ -4,7 +4,7 @@ public class Application05 {
 
     public static void main(String[] args) {
 
-        /* 수업목표. 메소드 리턴에 대해 이해할 수 았다. */
+        /* 수업목표. 메소드 리턴에 대해 이해할 수 있다. */
         /* 필기.
         *   return 이란?
         *   모든 메소드 내부에는  return;이 존재한다.

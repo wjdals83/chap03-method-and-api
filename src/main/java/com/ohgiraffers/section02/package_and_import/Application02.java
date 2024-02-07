@@ -20,6 +20,8 @@ public class Application02 {
         /* 목차. 1. non-static method 의 경우 */
         Calculator calc = new Calculator();
 
+//        Scanner sc = new Scanner(System.in);        //alt + enter 누르면 좌르륵 뜸
+
     }
 
 }
